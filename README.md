@@ -1,3 +1,5 @@
+# Tianyi (Rogers) Wang
+
 - 👋 Hi, I’m @RogersWang
 - 👀 I’m interested in technology, consumer behavior 
 - 🌱 I’m currently learning more about: Applied Data Analytics, Machine Learning
